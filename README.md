@@ -1,6 +1,6 @@
 # Webpage Summarizer App
 
-![Webpage Summarizer App](your-app-screenshot.png)
+![Webpage Summarizer App](src/assets/preview.png)
 
 This is a webpage summarizer app that uses OpenAI's GPT to extract and summarize news or article content from a given URL. It is a useful tool for text mining purposes and can optionally translate the article content. The app leverages a powerful web scraping engine, ScrapeNinja.net, with high-quality rotating proxies to access web content.
 
